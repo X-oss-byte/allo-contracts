@@ -98,7 +98,7 @@
     "@ethersproject/hardware-wallets": "^5.7.0",
     "@ledgerhq/hw-app-eth": "^6.32.1",
     "@openzeppelin/contracts": "^4.8.2",
-    "@openzeppelin/contracts-upgradeable": "^4.8.2",
+    "@openzeppelin/contracts-upgradeable": "^4.9.3",
     "@openzeppelin/merkle-tree": "^1.0.4",
     "hardhat-contract-sizer": "^2.8.0"
   }
